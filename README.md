@@ -32,9 +32,7 @@ curl -H "Authorization: Bearer YOUR_API_KEY" \
 #### NS Reverse Lookup API
 
 Identify all gTLD domains hosted under a specific nameserver infrastructure.
-```
-Base URL: https://api.brandargus.com/v1/ns-reverse
-```
+
 
 - **Search** — Query domains by nameserver with advanced filtering
 - **Count** — Get total domains under a nameserver
